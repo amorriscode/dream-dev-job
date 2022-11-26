@@ -11,6 +11,12 @@ Feel free to reach out to me with questions: [amorriscode@gmail.com](https://www
 - [Project-based learning](https://github.com/practical-tutorials/project-based-learning)
 - [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
 
+## Free Bootcamps
+
+- [The Odin Project](https://www.theodinproject.com/)
+- [App Academy Open](https://www.appacademy.io/course/app-academy-open)
+- [freeCodeCamp](https://www.freecodecamp.org/learn/)
+
 ## Work on Open Source
 
 - [Open Source Raid Guild](https://github.com/OpenSourceRaidGuild/tutorial-quest)
