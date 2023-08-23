@@ -1,6 +1,6 @@
 # Get Your Dream Dev Job 💪
 
-Not long ago, I wrote a blog post about [obtaining your ideal software job](https://anthonymorris.dev/words/obtaining-your-ideal-software-job). This Notion doc is meant to be a resource-heavy follow-up to that post.
+Not long ago, I wrote a blog post about [obtaining your ideal software job](https://anthonymorris.dev/words/obtaining-your-ideal-software-job). This doc is meant to be a resource-heavy follow-up to that post.
 
 Feel free to reach out to me with questions: [amorriscode@gmail.com](https://www.notion.so/42ccf5c50b8e420eb3376c3fb9995a32)
 
