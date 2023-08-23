@@ -4,8 +4,6 @@ Not long ago, I wrote a blog post about [obtaining your ideal software job](http
 
 Feel free to reach out to me with questions: [amorriscode@gmail.com](https://www.notion.so/42ccf5c50b8e420eb3376c3fb9995a32)
 
-## Online Bootcamps
-
 ## Build Sh!t
 
 - [Project-based learning](https://github.com/practical-tutorials/project-based-learning)
