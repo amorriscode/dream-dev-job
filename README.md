@@ -58,6 +58,7 @@ Feel free to reach out to me with questions: [amorriscode@gmail.com](https://www
 ## Resume Resources
 
 - [AI resume review](https://resumeworded.com)
+- [ResumeAI](https://withresumeai.com/) — AI resume builder + free ATS checker (3/day anonymous, 10/day free account); State of ATS 2026 (738 employers; Workday 37.9%)
 
 ## Misc. Study
 
