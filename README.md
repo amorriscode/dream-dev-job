@@ -58,6 +58,7 @@ Feel free to reach out to me with questions: [amorriscode@gmail.com](https://www
 ## Resume Resources
 
 - [AI resume review](https://resumeworded.com)
+- [JobEmerge](https://www.jobemerge.work) - AI career copilot with a job-fit test, resume translation in 19 languages, and a Markdown resume editor.
 
 ## Misc. Study
 
